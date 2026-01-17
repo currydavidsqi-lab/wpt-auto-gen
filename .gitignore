@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Project specific
+output/
+wpt/
+local_test/
+
+# OS
+.DS_Store
+Thumbs.db

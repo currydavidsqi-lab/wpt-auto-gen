@@ -1,0 +1,1 @@
+需求描述：{{user_demand}}。 目标特性：{{target_feature}}。
